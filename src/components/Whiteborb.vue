@@ -70,7 +70,6 @@ export default class Whiteborb extends Vue {
   private shapeBeingAdded: any = null;
   private lastPosX: number | null = null;
   private lastPosY: number | null = null;
-  private mousePosition: { x: number, y: number } = { x: -1, y: -1 };
   private shapeStartX: number = 0;
   private shapeStartY: number = 0;
   private snapshotHistory: any = [];
