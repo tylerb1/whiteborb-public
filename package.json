@@ -34,7 +34,7 @@
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
     "url": "^0.11.0",
-    "vue": "^2.6.11",
+    "vue": "^3.5.12",
     "vue-class-component": "^7.2.3",
     "vue-color": "^2.7.1",
     "vue-property-decorator": "^8.4.1",
